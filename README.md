@@ -17,16 +17,23 @@ Requirements
 The following libraries were used in this project:
 
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 sklearn
+
 nltk
 
 How to use
 
 Clone this repository to your local machine.
+
 Install the required libraries using pip or conda.
+
 Run the Jupyter Notebook to see the full project.
 
 Credits
@@ -34,4 +41,5 @@ Credits
 This project was completed by Chris Bai. The data used in this project was obtained from https://www.kaggle.com/competitions/learn-ai-bbc/data.
 
 Conclusion
+
 This project provides valuable insights into how text data can be analyzed and utilized for predictive modeling purposes. By following the steps outlined in this project, users can learn how to extract features from text data, build and train models, and compare supervised and unsupervised learning methods.
